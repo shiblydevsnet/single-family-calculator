@@ -6,5 +6,5 @@ Description: Calculation of single family
 Version: 1.0
 Author: User1
 License: GPLv2 or later
-Text Domain: create-post
+Text Domain: single-family-calculator
 */
